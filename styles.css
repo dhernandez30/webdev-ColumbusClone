@@ -4,7 +4,7 @@ body {
 }
 
 .navlogo {
-    height: 22px;
+    height: 40px;
 }
 
 #bluenav {
@@ -22,7 +22,7 @@ ul {
 }
 
 ul li {
-    font-size: 11px;
+    font-size: 15px;
     display: inline;
     padding: 5px 10px;
     font-family: 'Open Sans,' sans-serif;
@@ -30,6 +30,18 @@ ul li {
     font-weight: bold;
     color: white;
     display: inline-block;
+    margin: 0 15px;
+    
 }
 
+#herosection {
+    width: 100vw;
+    height:100vh;
+    background-image: url(images/graduation.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
+.center{
+    text-align: center;
+}
