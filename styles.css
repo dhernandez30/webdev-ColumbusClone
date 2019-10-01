@@ -91,3 +91,34 @@ ul li {
     background-size: cover;
     background-position: center;
 }
+
+
+#glance {
+    height: 400px;
+    width: 100vw;
+    background-color: white;
+    display: inline-block;
+}
+
+#glanceheader {
+    height: 100px;
+    width: 100vw;
+    text-align: center;
+    color: #10243B;
+    padding-top: 50px;
+    font-size: 31px;
+
+}
+
+.glancebox {
+    height: 300px;
+    width: 24.5%;
+    background-color: yellow;
+    display: inline-block
+}
+
+#money {
+    background-image: url(images/carosel\ money.jpg);
+    background-size: cover;
+    background-position: center;
+}
