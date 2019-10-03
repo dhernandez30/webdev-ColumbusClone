@@ -122,3 +122,165 @@ ul li {
     background-size: cover;
     background-position: center;
 }
+
+#graduation {
+    background-image: url(images/carosel\ graduation.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#book {
+    background-image: url(images/book.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#teaching {
+    background-image: url(images/carosel\ teaching.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+#glancebox{
+    height: 100px;
+    width: 25%;
+} 
+
+.text{
+    text-align: center;
+    color: grey;
+    font-family: 'Open Sans', sans-serif;
+    width: 287.69px;
+    margin-left:50px;
+    position: relative;
+    top: 320px;
+    
+}
+
+.heading{
+    color: red;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    text-emphasis: center;
+    margin-left: 20px;
+}
+
+.school{
+    color: #10243B;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-top: 65px;
+}
+
+.logos{
+    display: inline-block;
+    margin: 75px;
+
+
+}
+
+#schools{
+    text-align: center;
+    border-top: solid goldenrod 1px;
+    width: 100%;
+    background-color: white;
+    display: inline-block;
+}
+
+#courses {
+    background-color: #10243B;
+    width: 75%;
+    height: 20vh;
+    margin-left: 200px;
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 65px;
+    font-size: 30px;
+}
+
+.ap {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    padding-top: 55px;
+    font-size: 30px;
+    margin-top: 80px;
+    font-weight: bold;
+}
+
+.footernav{
+    background-color: #10243B;
+    width: 100vw;
+    height: 50px;
+}
+
+#footer{
+    width: 100vw;
+    height: 300px;
+    background-color: #10243B;
+    
+}
+
+#footernav{
+    width: 100vw;
+    height: 60px;
+    
+
+}
+
+#leftfoot a, #rightfoot a {
+    text-decoration: none;
+    font-size: 1.2em;
+    color: white;
+}
+
+
+#rightfoot{
+    float: right;
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
+
+#rightfoot:nth-child(1){
+    padding-right: 75px;
+
+}
+
+#footercontent{
+    height: 400px;
+    width: 100%;
+    background-color: #333;
+    padding-top: 40px;
+    padding-left: 50px;
+    color: white;
+    
+}
+
+
+#sitemap{
+    margin-right: 100px;
+    text-align: right;
+}
+
+
+#footermission{
+    width: 60%;
+    height: 150px;
+    margin: 100px 0 0 75px;
+    color: rgba(255, 255, 255, 0.253);
+}
+
+#cchscontact{
+    float: left;
+}
+
+#leftfoot{
+    padding-left: 50px;
+}
+
+.columbuseal{
+    float: right;
+    display: inline-block;
+}
