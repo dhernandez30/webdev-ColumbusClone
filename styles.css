@@ -3,6 +3,9 @@
     padding: 0px;
 }
 
+body {
+    overflow-x: hidden;
+}
 .navlogo {
     height: 40px;
 }
@@ -13,6 +16,8 @@
 
 nav {
     background-color: #10243B;
+    display: inline-block;
+    width: 100%;
 }
 
 ul {
@@ -30,7 +35,7 @@ ul li {
     font-weight: bold;
     color: white;
     display: inline-block;
-    margin: 0 15px;
+    margin: 0 14px;
     
 }
 
@@ -227,6 +232,7 @@ ul li {
 #footernav{
     width: 100vw;
     height: 60px;
+    color: #a3dde8;
     
 
 }
@@ -234,7 +240,7 @@ ul li {
 #leftfoot a, #rightfoot a {
     text-decoration: none;
     font-size: 1.2em;
-    color: white;
+    color: #a3dde8;
 }
 
 
@@ -255,7 +261,8 @@ ul li {
     background-color: #333;
     padding-top: 40px;
     padding-left: 50px;
-    color: white;
+    color: white; 
+
     
 }
 
@@ -274,14 +281,12 @@ ul li {
 }
 
 #cchscontact{
-    float: left;
-}
+    display: inline-block}
 
 #leftfoot{
     padding-left: 50px;
 }
 
-.columbuseal{
+.columbuseal {
     float: right;
-    display: inline-block;
 }
